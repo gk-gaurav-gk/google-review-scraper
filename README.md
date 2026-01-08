@@ -1,11 +1,11 @@
-Overview
+# Overview
 
 This repository contains a collection of end-to-end implementations of Deep Learning and Natural Language Processing (NLP) techniques using Python.
 The projects focus on model building, evaluation, overfitting control, text preprocessing, and real-world data extraction, with an emphasis on clarity, reproducibility, and academic rigor.
 
 All implementations are provided in Jupyter Notebook (.ipynb) format and are suitable for academic submissions, interviews, and practical learning.
 
-Objectives
+# Objectives
 
 Build and evaluate Deep Neural Networks
 
@@ -19,48 +19,34 @@ Perform web scraping and API-based data collection
 
 Develop clean, well-structured, and executable notebooks
 
-Key Concepts Covered
+# Key Concepts Covered
+
 Deep Learning
-
 Feed-Forward Neural Networks
-
 ReLU activation functions
-
 Model evaluation (train vs test performance)
-
 Overfitting analysis
-
 Overfitting Prevention
-
 Dropout
-
 Early Stopping
-
 L1 & L2 Regularization
 
 Architecture reconfiguration and comparison
 
-🔹 Natural Language Processing (NLP)
-
+# Natural Language Processing (NLP)
 Text preprocessing
-
 Tokenization
-
 Stopword removal
-
 Stemming & Lemmatization
-
 Feature extraction
-
 Bag-of-Words
-
 TF-IDF
 
-Sentiment Analysis
+# Sentiment Analysis
 
 Introduction to Transformers and contextual embeddings
 
-🔹 Web Scraping & APIs
+Web Scraping & APIs
 
 News data extraction using APIs
 
@@ -68,7 +54,7 @@ Web scraping using Python libraries
 
 Data cleaning and preparation for NLP tasks
 
-📂 Repository Structure
+#  Repository Structure
 ├── Deep_Learning/
 │   ├── Neural_Network_Model.ipynb
 │   ├── Overfitting_Techniques.ipynb
@@ -88,31 +74,22 @@ Data cleaning and preparation for NLP tasks
 
 Programming Language: Python
 
-Libraries & Frameworks:
+# Libraries & Frameworks:
 
 pandas
-
 numpy
-
 scikit-learn
-
 tensorflow / keras
-
 nltk
-
 matplotlib
-
-requests
-
+request
 beautifulsoup4
 
 Tools:
-
 Jupyter Notebook
-
 Anaconda
 
-Git & GitHub
+# Git & GitHub
 
 How to Run the Projects
 Step 1: Clone the Repository
